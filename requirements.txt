@@ -1,5 +1,5 @@
 streamlit
-pillow
+Pillow
 io
 google
 google.generativeai
