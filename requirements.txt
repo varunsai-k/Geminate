@@ -1,6 +1,5 @@
 streamlit
 Pillow
-io
 google
 google.generativeai
 IPython
